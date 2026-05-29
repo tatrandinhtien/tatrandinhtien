@@ -18,14 +18,6 @@ I am an intern at FPT Telecom (FTEL). As a driven low-level learner, I am passio
 
 ---
 
-### Interests
-
-* **Embedded Linux:**  focusing on all essential aspects of Linux, including user-space system programming (IPC, threads, processes), build systems (Buildroot, Yocto Project), and kernel device driver development.
-* **Real-Time OS:** Deeply interested in exploring the core architecture and internal execution mechanics of real-time operating systems.
-* **Data Structures & Algorithms:** Passionately practicing and refining problem-solving skills as a dedicated personal daily hobby.
-
----
-
 ### Contact & Profiles
 
 * **Email:** tien.ta.eswe@gmail.com
