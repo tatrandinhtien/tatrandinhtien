@@ -18,8 +18,6 @@ I am an intern at FPT Telecom (FTEL). As a driven low-level learner, I am passio
 
 ---
 
-### Contact & Profiles
-
 * **Email:** tien.ta.eswe@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/tien-ta-tran-dinh-15a419308/
 * **LeetCode:** https://leetcode.com/u/dinh_tien/
