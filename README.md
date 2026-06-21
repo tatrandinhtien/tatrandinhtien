@@ -1,23 +1,26 @@
 ## Embedded Software Engineer
 
-I am an intern at FPT Telecom (FTEL). As a driven low-level learner, I am passionate about system internals, exploring what happens "under the hood", practicing data structures and algorithms as a daily routine, and diving deep into Embedded Linux systems.
+I am an R&D Intern at FPT Telecom (FTEL), driven by a deep passion for low-level system programming. I thrive on exploring operating systems "under the hood".
 
 ---
 
 ### Technical Skills
 
-* **Programming Languages:** C, C++, ARM Assembly
-* **Microcontrollers & Platforms:** ST (STM32), NXP (S32K), TI (Tiva C), Microchip (PIC)
+* **Languages:** C, C++ (STL), ARM Assembly
+* **Platforms:** STM32, NXP S32K, Tiva C, Microchip PIC
+* **Systems & Tools:** Linux System Programming, RTOS, Makefile, Git
 
 ---
 
 ### Key Projects
 
-* **4WD-4WS Automotive Wheel Controller:** Designed and implemented the software architecture from scratch, developing custom peripheral drivers up to the application layer. Engineered robust CAN bus communication protocols, implemented PID control algorithms for motor speed regulation, and developed precise servo motor control systems (Graduation Capstone Project).
-* **Game Development on AK-Kit:** Currently engineering an embedded bare-metal game on the AK-Kit platform, focusing on hardware-software interfacing, display driver optimization, and real-time game logic execution (Ongoing).
+* **4WD-4WS Automotive Wheel Controller (Graduation Capstone Project)**
+  * Engineered a full-stack embedded software architecture from scratch (MCAL to Application layer).
+  * Implemented robust CAN bus communication protocols and high-precision PWM servo controls.
+  * Developed deterministic PID control algorithms for closed-loop motor speed regulation.
 
 ---
-
-* **Email:** tien.ta.eswe@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/tien-ta-tran-dinh-15a419308/
-* **LeetCode:** https://leetcode.com/u/dinh_tien/
+### Connect with me !
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tien.ta.eswe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tien-ta-tran-dinh-15a419308/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/dinh_tien/)
